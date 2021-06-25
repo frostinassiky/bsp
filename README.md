@@ -3,7 +3,7 @@
 
 This repo will hold the codes of paper: "[Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830)". 
 
-We will update this repo once we get the approval to release our code.
+**We will update this repo once we get the approval to release our code.**
 
 
 ## Update
