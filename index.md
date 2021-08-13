@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ```
 @InProceedings{xu2020bsp,
 author = {Mengmeng Xu, Juan-Manuel Perez-Rua, Victor Escorcia, Brais Martinez, Xiatian Zhu, Li Zhang, Bernard Ghanem, Tao Xiang},
-title = {G-TAD: Sub-Graph Localization for Temporal Action Detection},
+title = {Boundary-sensitive Pre-training for Temporal Localization in Videos},
 booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
 month = {Oct},
 year = {2021}
