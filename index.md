@@ -38,6 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Bibtex
+```
 @InProceedings{xu2020bsp,
 author = {Mengmeng Xu, Juan-Manuel Perez-Rua, Victor Escorcia, Brais Martinez, Xiatian Zhu, Li Zhang, Bernard Ghanem, Tao Xiang},
 title = {G-TAD: Sub-Graph Localization for Temporal Action Detection},
@@ -45,3 +46,4 @@ booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vi
 month = {Oct},
 year = {2021}
 }
+```
